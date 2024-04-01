@@ -5,10 +5,20 @@
         <div class="col-lg-9">
             <hr />
             <!-- <ngx-paypal [config]="payPalConfig"></ngx-paypal> -->
+            <nav class="navbar navbar-light bg-light">
+                <div class="container-fluid">
+                    <a i18n="@@navbarBrand" class="navbar-brand"></a>
+                    <form class="d-flex">
+                        <button i18n="@@checkoutButton"  (click)="place()" class="btn btn-outline-success">Place Order</button>
+                    </form>
+                </div>
+            </nav>
         </div>
 
+   
+
         <!-- Right -->
-        <div class="col-lg-3">
+        <div class="col-lg-3 float-end">
             <div class="card position-sticky top-0">
                 <div class="p-3 bg-light bg-opacity-10">
                     <h6 i18n="@@orderSummaryTitle" class="card-title mb-3">Order Summary</h6>
@@ -24,3 +34,4 @@
         </div>
     </div>
 </div>
+
