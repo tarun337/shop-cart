@@ -29,6 +29,11 @@ export class PaymentComponent implements OnInit {
     console.log(this.cartTotal);
   }
 
+  place() {
+    localStorage.setItem('cart_total', JSON.stringify(this.total));
+    this.router.navigate(['/success']);
+  }
+
   // private initConfig(): void {
   //   this.payPalConfig = {
   //     currency: 'EUR',
