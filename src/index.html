@@ -16,19 +16,23 @@
     integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
     crossorigin="anonymous"></script>
 
-  <script src="https://global.localizecdn.com/localize.js"></script>
-<script>!function(a){if(!a.Localize){a.Localize={};for(var e=["translate","untranslate","phrase","initialize","translatePage","setLanguage","getLanguage","getSourceLanguage","detectLanguage","getAvailableLanguages","untranslatePage","bootstrap","prefetch","on","off","hideWidget","showWidget"],t=0;t<e.length;t++)a.Localize[e[t]]=function(){}}}(window);</script>
 
-<script>
-  Localize.initialize({
-    key: 'bKdIyav4obwtB',
-    rememberLanguage: true,
-  });
-</script>
 </head>
 
 <body>
   <app-root></app-root>
+  <script>
+    window.LOKALISE_CONFIG = {
+      projectId: "18302045592fa799a35d20.15846093",
+      locale: "en"
+    };
+    (function () {
+      var a = document.createElement("script");a.type = "text/javascript";a.async = !0;
+      a.src = ["https://app.lokalise.com/live-js/script.min.js?", (new Date).getTime()].join("");
+      document.body.appendChild(a)
+    })();
+</script>
+
 </body>
 
 </html>
