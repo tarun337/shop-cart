@@ -1,15 +1,15 @@
 {
   "app": {
-    "access_token": "660636297e5814743a605504!be86bc6ee9e3ff4e6ca354e8b243ed0b",
-    "base_language": "en",
+    "access_token": "660680dbb7fb8075f84520f9!1b1d1e9346b6674448c37b17091a62b5",
+    "base_language": "en-US",
     "pull": {
       "target": [
         {
           "exclude_languages": [
-            "en"
+            "en-US"
           ],
           "file_format": "xliff",
-          "path": "src/locale/messages.de.xliff",
+          "path": "./src/locale/messages.de.xliff",
           "tag": "cli"
         }
       ]
@@ -18,8 +18,8 @@
       "source": [
         {
           "file_format": "xliff",
-          "language": "en",
-          "path": "src/locale/messages.xliff",
+          "language": "en-US",
+          "path": "./src/locale/messages.xliff",
           "tag": "cli"
         }
       ]
