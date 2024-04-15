@@ -9,7 +9,7 @@
             "en-US"
           ],
           "file_format": "xliff",
-          "path": "./src/locale/messages.de.xliff",
+          "path": "./src/locale/messages.<lang>.xliff",
           "tag": "cli",
           "includeInvisibleId": true
         }
