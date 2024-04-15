@@ -10,7 +10,8 @@
           ],
           "file_format": "xliff",
           "path": "./src/locale/messages.de.xliff",
-          "tag": "cli"
+          "tag": "cli",
+          "includeInvisibleId": true
         }
       ]
     },
