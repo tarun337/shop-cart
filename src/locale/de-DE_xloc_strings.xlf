@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" target-language="de-DE" date="2024-04-26T11:00:15Z" product-name="xloc" tool="Applanga" original="ng2.template">
+    <header>
+      <tool tool-name="Applanga"/>
+    </header>
+    <body>
+      <trans-unit id="navbarBrand" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‌Navbar</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‌Menüleiste</target>
+      </trans-unit>
+      <trans-unit id="checkoutButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‍Checkout</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‍Zur Kasse</target>
+      </trans-unit>
+      <trans-unit id="productTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿﻿  </source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿﻿  </target>
+      </trans-unit>
+      <trans-unit id="productType" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​​Type:</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​​Typ:</target>
+      </trans-unit>
+      <trans-unit id="productColor" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‌Color:</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‌Farbe:</target>
+      </trans-unit>
+      <trans-unit id="productPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‍Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‍Rs.</target>
+      </trans-unit>
+      <trans-unit id="addToCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​﻿Add to Cart</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​﻿Zum Warenkorb hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="totalPriceTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌​Total Price</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌​Gesamtpreiseeee</target>
+      </trans-unit>
+      <trans-unit id="totalPrice" x-length-option="equals-source">
+        <source/>
+        <target/>
+      </trans-unit>
+      <trans-unit id="productPreviewTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌‍ Product Preview </source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌‍ Produktvorschau</target>
+      </trans-unit>
+      <trans-unit id="productName" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌﻿ Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌﻿ Rs.</target>
+      </trans-unit>
+      <trans-unit id="productDescription" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍​Product Description</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍​Produktbeschreibung</target>
+      </trans-unit>
+      <trans-unit id="productTotalPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‌Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‌Rs.</target>
+      </trans-unit>
+      <trans-unit id="removeFromCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‍Remove from cart</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‍Aus dem Warenkorb entfernen</target>
+      </trans-unit>
+      <trans-unit id="paymentPageTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍﻿Payment Page</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍﻿Zahlungsseite</target>
+      </trans-unit>
+      <trans-unit id="orderSummaryTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿​Order Summary</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿​Bestellübersicht</target>
+      </trans-unit>
+      <trans-unit id="subtotal" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‌Subtotal</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‌Zwischensumme</target>
+      </trans-unit>
+      <trans-unit id="total" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‍TOTAL</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‍GESAMT</target>
+      </trans-unit>
+      <trans-unit id="totalAmount" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿﻿$</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿﻿$</target>
+      </trans-unit>
+      <trans-unit id="thankYouTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​​Thank you.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​​Danke.</target>
+      </trans-unit>
+      <trans-unit id="orderPlacedMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‌Your order has been placed successfully.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‌Ihre Bestellung wurde erfolgreich aufgegeben.</target>
+      </trans-unit>
+      <trans-unit id="orderNumberMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‍Your order number is 9237427634826. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‍Ihre Bestellnummer lautet 9237427634826. Wir werden Ihre Bestellung umgehend bearbeiten und sie wird in 2 - 5 Werktagen geliefert.</target>
+      </trans-unit>
+      <trans-unit id="goBackButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​﻿Go back to home</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​﻿Zurück zur Startseite</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
