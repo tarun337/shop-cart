@@ -8,7 +8,7 @@
         "sourceLocale":"en-US",
         "locales": {
           "de-DE":{
-        "translation":"src/locale/messages.de-DE.xlf",
+        "translation":"src/de-DE_xloc_strings.xlf",
         "baseHref":"de-DE/"
     }
  
