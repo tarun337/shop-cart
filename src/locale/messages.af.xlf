@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="af">
+    <body>
+      <trans-unit id="navbarBrand" datatype="html">
+        <source>Navbar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <target>crwdns48:0crwdne48:0</target>
+      </trans-unit>
+      <trans-unit id="checkoutButton" datatype="html">
+        <source>Checkout</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <target>crwdns50:0crwdne50:0</target>
+      </trans-unit>
+      <trans-unit id="productTitle" datatype="html">
+        <source>
+          <x id="INTERPOLATION" equiv-text="{{product.name}}"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">23,25</context>
+        </context-group>
+        <target>crwdns52:0{{product.name}}crwdne52:0</target>
+      </trans-unit>
+      <trans-unit id="productType" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>Type:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="INTERPOLATION" equiv-text="{{product.type}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <target>crwdns54:0{{product.type}}crwdne54:0</target>
+      </trans-unit>
+      <trans-unit id="productColor" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>Color:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="INTERPOLATION" equiv-text="{{product.color}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <target>crwdns56:0{{product.color}}crwdne56:0</target>
+      </trans-unit>
+      <trans-unit id="productPrice" datatype="html">
+        <source>Rs.<x id="INTERPOLATION" equiv-text="{{product.price}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <target>crwdns58:0{{product.price}}crwdne58:0</target>
+      </trans-unit>
+      <trans-unit id="addToCartButton" datatype="html">
+        <source>Add to Cart</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <target>crwdns60:0crwdne60:0</target>
+      </trans-unit>
+      <trans-unit id="totalPriceTitle" datatype="html">
+        <source>Total Price</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <target>crwdns62:0crwdne62:0</target>
+      </trans-unit>
+      <trans-unit id="totalPrice" datatype="html">
+        <source>
+          <x id="INTERPOLATION" equiv-text="{{total | currency:&apos;INR&apos;}}"/>
+        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <target>crwdns64:0{total | currency:'INR'}crwdne64:0</target>
+      </trans-unit>
+      <trans-unit id="productPreviewTitle" datatype="html">
+        <source> Product Preview </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+        <target>crwdns66:0crwdne66:0</target>
+      </trans-unit>
+      <trans-unit id="productName" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{product?.name}}"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Rs.<x id="INTERPOLATION_1" equiv-text="{{product?.price}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <target>crwdns68:0{{product?.name}}crwdnd68:0{{product?.price}}crwdne68:0</target>
+      </trans-unit>
+      <trans-unit id="productDescription" datatype="html">
+        <source>Product Description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">55,57</context>
+        </context-group>
+        <target>crwdns70:0crwdne70:0</target>
+      </trans-unit>
+      <trans-unit id="productTotalPrice" datatype="html">
+        <source>Rs.<x id="INTERPOLATION" equiv-text="{{ product.quantity * product?.price | number : &apos;1.2-2&apos;}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <target>crwdns72:0crwdne72:0</target>
+      </trans-unit>
+      <trans-unit id="removeFromCartButton" datatype="html">
+        <source>Remove from cart</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <target>crwdns74:0crwdne74:0</target>
+      </trans-unit>
+      <trans-unit id="paymentPageTitle" datatype="html">
+        <source>Payment Page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <target>crwdns76:0crwdne76:0</target>
+      </trans-unit>
+      <trans-unit id="orderSummaryTitle" datatype="html">
+        <source>Order Summary</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <target>crwdns78:0crwdne78:0</target>
+      </trans-unit>
+      <trans-unit id="subtotal" datatype="html">
+        <source>Subtotal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <target>crwdns80:0crwdne80:0</target>
+      </trans-unit>
+      <trans-unit id="total" datatype="html">
+        <source>TOTAL</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <target>crwdns82:0crwdne82:0</target>
+      </trans-unit>
+      <trans-unit id="totalAmount" datatype="html">
+        <source>$<x id="INTERPOLATION" equiv-text="{{cartTotal}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <target>crwdns84:0{{cartTotal}}crwdne84:0</target>
+      </trans-unit>
+      <trans-unit id="thankYouTitle" datatype="html">
+        <source>Thank you.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <target>crwdns86:0crwdne86:0</target>
+      </trans-unit>
+      <trans-unit id="orderPlacedMessage" datatype="html">
+        <source>Your order has been placed successfully.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <target>crwdns88:0crwdne88:0</target>
+      </trans-unit>
+      <trans-unit id="orderNumberMessage" datatype="html">
+        <source>Your order number is <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>9237427634826<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target>crwdns90:0crwdne90:0</target>
+      </trans-unit>
+      <trans-unit id="goBackButton" datatype="html">
+        <source>Go back to home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target>crwdns92:0crwdne92:0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
