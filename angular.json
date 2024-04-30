@@ -10,9 +10,6 @@
           "de-DE":{
         "translation":"src/locale/messages.de-DE.xlf"
     },
-  "fr":{
-    "translation":"src/locale/messages.fr.xlf"
-},
 "af":{
   "translation":"src/locale/messages.af.xlf"
 }
@@ -32,7 +29,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "en-US","de-DE","fr","af"
+              "en-US","de-DE","af"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
