@@ -8,10 +8,14 @@
         "sourceLocale":"en-US",
         "locales": {
           "de-DE":{
-        "translation":"src/locale/de-DE_xloc_strings.xlf",
-        "baseHref":"de-DE/"
-    }
- 
+        "translation":"src/locale/messages.de-DE.xlf"
+    },
+  "fr":{
+    "translation":"src/locale/messages.fr.xlf"
+},
+"af":{
+  "translation":"src/locale/messages.af.xlf"
+}
   }
       },
       "projectType": "application",
@@ -28,7 +32,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "de-DE","en-US"
+              "en-US","de-DE","fr","af"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
@@ -38,7 +42,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/web.config"
             ],
             "styles": [
               "src/styles.scss"
