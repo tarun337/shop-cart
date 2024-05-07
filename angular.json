@@ -7,7 +7,7 @@
       "i18n":{
         "sourceLocale":"en-US",
         "locales": {
-          "de-DE":{
+          "de":{
         "translation":"src/locale/messages.de-DE.xlf"
     },
 "af":{
@@ -29,7 +29,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "en-US","de-DE","af"
+              "en-US","de","af"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
