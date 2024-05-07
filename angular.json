@@ -29,7 +29,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "en-US","de","af"
+              "de"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
