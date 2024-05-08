@@ -9,10 +9,7 @@
         "locales": {
           "de":{
         "translation":"src/locale/messages.de-DE.xlf"
-    },
-"af":{
-  "translation":"src/locale/messages.af.xlf"
-}
+    }
   }
       },
       "projectType": "application",
