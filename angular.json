@@ -8,7 +8,7 @@
         "sourceLocale":"en-US",
         "locales": {
           "de":{
-        "translation":"src/locale/messages.de-DE.xlf"
+        "translation":"src/locale/messages.en-JM.xlf"
     },
         "en-JM":{
         "translation":"src/locale/messages.en-JM.xlf"
