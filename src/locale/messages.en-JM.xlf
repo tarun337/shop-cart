@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en-JM" date="2024-05-13T08:43:10Z">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en-JM" date="2024-05-13T09:18:34Z">
     <body>
       <trans-unit id="navbarBrand" datatype="html">
         <source>Navbar</source>
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="orderNumberMessage" datatype="html">
         <source>Your order number is <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>9237427634826<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
-<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‍‍​​​‍‌‍​‌​‍‍​​​​‌‍‌‌‌‍​‍‌‍‌‌‌​‌​‌‌​‌⁪Your order number is ​​​<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>‌‌‌9237427634826​​​<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;‌‌‌"/>. We will immediately process your and it will be delivered in 2 - 5 business days.⁪⁪</target>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‍‍​​​‍‌‍​‌​‍‍​​​​‌‍‌‌‌‍​‍‌‍‌‌‌​‌​‌‌​‌⁪Your order number is ​​​<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>‌‌‌9237427634826​​​<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>‌‌‌. We will immediately process your and it will be delivered in 2 - 5 business days.⁪⁪</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/success/success.component.html</context>
           <context context-type="linenumber">5</context>
