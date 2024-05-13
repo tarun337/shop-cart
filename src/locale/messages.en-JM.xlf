@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en-JM" date="2024-05-13T08:43:10Z">
+    <body>
+      <trans-unit id="navbarBrand" datatype="html">
+        <source>Navbar</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌‌‌‌​‍‍‍​‍‍​​‌‌​‌‍​‌‌‍​‌‍‍‌‌‌​‍‌​​‌‌​‍‍​​⁪Navbar⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="checkoutButton" datatype="html">
+        <source>Checkout</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌‍‍‌‌‌​​‍‍‍‍‍​‌‍‍‍‍‌​‌​​‍‍​​‍​‍‌​​‍‍​​​‍⁪Checkout⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productTitle" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{product.name}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍​​​​‍‍​‍​​‌​‌‍‌​​​‌‌‍​‌‍‍​​‍‌​‍​‍​‍​‍‌⁪​​​<x id="INTERPOLATION" equiv-text="​​​{{product.name}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">21,23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productType" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>Type:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="INTERPOLATION" equiv-text="{{product.type}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​‌‍‌‌​‌‌‌‍​​‍​‍‍‌​‌‍‌‌‍‍‌‌​‍‌‍​‍‌​‍‍‌​‌⁪​​​<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>‌‌‌Type:​​​<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>‌‌‌​​​<x id="INTERPOLATION" equiv-text="​​​{{product.type}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productColor" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>Color:<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="INTERPOLATION" equiv-text="{{product.color}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​‍​‍‍‌​‍‌​‍‌‍​‌‌‍‌‌‍‌‌‌‌‍‍‍​‍‍‌‍​‌‌​‌​​‌⁪​​​<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;text-muted mr-2&quot;&gt;"/>‌‌‌Color:​​​<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>‌‌‌​​​<x id="INTERPOLATION" equiv-text="​​​{{product.color}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productPrice" datatype="html">
+        <source>Rs.<x id="INTERPOLATION" equiv-text="{{product.price}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‌‍‍‍​‌‌​‍​‌‌‌‌‍‌‌​‍​‌​​​‌‌‌​​​‍‍‍‌‌​‌​‍⁪Rs.​​​<x id="INTERPOLATION" equiv-text="​​​{{product.price}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="addToCartButton" datatype="html">
+        <source>Add to Cart</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍‍​‍‍‌‌‍​​​‌‍‌‍​​​‍‍‍‌​‍‍‍‌‍‍‍‌​​‍​‌‍​​⁪Add to Cart⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="totalPriceTitle" datatype="html">
+        <source>Total Price</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‍‍‌​‍​‍​‌​​‍​‍‍‌‌​‍‌​​‌‍​‌​‍‌‌‌‌‌‍​‍‍‌⁪Total Price⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="totalPrice" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{total | currency:'INR'}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‌‌‍‍‍‌‍‌‌‍‌‌‌‍‌​‍​‍​‌​‌​‍​‍‍‌‍‌​‍‍‍​​⁪​​​<x id="INTERPOLATION" equiv-text="​​​{{total | currency:'INR'}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productPreviewTitle" datatype="html">
+        <source>Product Preview</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍‌‌​‌‍‍‍‌​‍​​​‍‌‍‌‌‍‌‌‌‍​‌​‍‍‌​​‍‌‌‍‌​⁪Product Preview⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productName" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{product?.name}}"/> <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Rs.<x id="INTERPOLATION_1" equiv-text="{{product?.price}}"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌‍​‌‍‌‌‍‌‍​​‌‍​‍​​​​‍​‍‍​‍​‍​​‍‍‍​‌‍‌​‌​⁪​​​<x id="INTERPOLATION" equiv-text="​​​{{product?.name}}‌‌‌"/>‌‌‌ ​​​<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>‌‌‌Rs.​​​<x id="INTERPOLATION_1" equiv-text="​​​{{product?.price}}‌‌‌"/>‌‌‌​​​<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productDescription" datatype="html">
+        <source>Product Description</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‍‌​‍​​​‍‍​​‌‌‌​‍​​​‌‍‍‍‌​​​‍‍​‍​​​‍‍‍‌⁪Product Description⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">53,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="productTotalPrice" datatype="html">
+        <source>Rs.<x id="INTERPOLATION" equiv-text="{{ product.quantity * product?.price | number : '1.2-2'}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌‍‌‍‌​​‍‍‌‍‍‍​‌‍‍‍​​‌​‌‍​‍‍‍‍‌‌​‍‌‍‌‌​‌​⁪Rs.​​​<x id="INTERPOLATION" equiv-text="​​​{{ product.quantity * product?.price | number : '1.2-2'}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="removeFromCartButton" datatype="html">
+        <source>Remove from cart</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​‌‌​‌‌‌‍‍‌‍‍​​‍‌‍‌‌​‌​‍​​‍‍‌‌‍‌​‍‌‌​​‌‌‌⁪Remove from cart⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/home.component.html</context>
+          <context context-type="linenumber">63,64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="paymentPageTitle" datatype="html">
+        <source>Payment Page</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍‌‌‌‍‌‍‌​‍‌‍‌​‍​‌‍‍‌​‌‌‍‌‍‌​‍​‍‍‌‌​​⁪Payment Page⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="orderSummaryTitle" datatype="html">
+        <source>Order Summary</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍‍​‌‍‌​‌‍‍‌‌‍‍​‌‌‌​‍​​‌‌‍‍​‍​‍‌‌‌​‍​​‍⁪Order Summary⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="subtotal" datatype="html">
+        <source>Subtotal</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍‌‌‌​‍‍‌‍​‍‌‍‌‍‍‌‌​‌​​​‍​‌​​‍‍​‌‌​‍​‌‌​⁪Subtotal⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="total" datatype="html">
+        <source>TOTAL</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​‌​‍‌​‌‍​‌‌​‌‍‌‌‌‍‍​‌‌​‍‌‍​​​‌‌​‍‍​‍‌‌‌⁪TOTAL⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="totalAmount" datatype="html">
+        <source>$<x id="INTERPOLATION" equiv-text="{{cartTotal}}"/></source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‍​‌‌​​‌‌‌‌‍‌‌​‌‌‍‍​​‌‍‌‍​‍‌‌​‍​‍​​‌‍‌‌⁪$​​​<x id="INTERPOLATION" equiv-text="​​​{{cartTotal}}‌‌‌"/>‌‌‌⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/payment/payment.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="thankYouTitle" datatype="html">
+        <source>Thank you.</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​‌​‍​‌‌​‍​‌‌‍​​​​‍​​‍‌‍​​‍‌‍​‍‍‌​‍‍​‌‌‌⁪Thank you.⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="orderPlacedMessage" datatype="html">
+        <source>Your order has been placed successfully.</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌‍​‌‌‌​‌‍‍​‍‌‌‌‌‌‍​‌‍‍‌‍‍‌‍​‌‌‌​‍‌​‌​‍​​⁪Your order has been placed successfully.⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="orderNumberMessage" datatype="html">
+        <source>Your order number is <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>9237427634826<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‌​​‍‍​​​‍‌‍​‌​‍‍​​​​‌‍‌‌‌‍​‍‌‍‌‌‌​‌​‌‌​‌⁪Your order number is ​​​<x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;#&quot;&gt;"/>‌‌‌9237427634826​​​<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;‌‌‌"/>. We will immediately process your and it will be delivered in 2 - 5 business days.⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="goBackButton" datatype="html">
+        <source>Go back to home</source>
+<target xml:lang="en-JM" state="final">⁪⁪⁪‍‌‌​​‌​‍‌‍‌​‌‌‍​‌‌​‍‌‌‌‍​​​‌​‍​‍‌‍​‌‌​​‌⁪Go back to home⁪⁪</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/success/success.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
