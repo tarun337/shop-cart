@@ -8,7 +8,7 @@
         "sourceLocale":"en-US",
         "locales": {
           "de":{
-        "translation":"src/locale/messages.en-JM.xlf"
+        "translation":"src/locale/messages.de-DE.xlf"
     },
         "en-JM":{
         "translation":"src/locale/messages.en-JM.xlf"
@@ -29,7 +29,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "de","en-US"
+              "de","en-US","en-JM"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
