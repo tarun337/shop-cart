@@ -9,6 +9,9 @@
         "locales": {
           "de":{
         "translation":"src/locale/messages.de-DE.xlf"
+    },
+        "en-JM":{
+        "translation":"src/locale/messages.en-JM.xlf"
     }
   }
       },
